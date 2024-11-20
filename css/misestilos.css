@@ -1,0 +1,74 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header,footer{
+
+    background-color: rgb(255, 255, 255)
+
+}
+header{
+    color: rgb(0, 74, 139);
+}
+
+
+
+footer{
+
+    color: rgb(0, 0, 0);
+}
+
+article p span{
+
+    font-size: xx-large;
+    color: darkorchid;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.miclas{
+
+    background-color: rgb(255, 255, 255)
+
+}
+
+#menu{
+
+background-color:blue
+
+    
+}
+h1+p {
+
+text-decoration: underline;
+
+}
+
+#mp {
+
+    text-decoration: none;
+
+}
+ a:hover{
+
+    background-color: rgb(194, 192, 192)
+    
+    
+ }
+ 
+ 
+ 
+ img:hover{
+
+opacity: 0;
+
+ }
+ footer p::before {
+
+content: url(/img/url.jpg);
+
+ }
+ 
